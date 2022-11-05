@@ -8,12 +8,9 @@ public class TicketRecalculation {
 
         int n = JOptionPane.showConfirmDialog(null, "Farklı bir şehre mi seyehat etmek istiyorsunuz?\nHadi tekrar en ucuz bilete bakalım!", "UmutJet", JOptionPane.YES_NO_OPTION);
 
-        if (n == JOptionPane.YES_OPTION)
-        {
+        if (n == JOptionPane.YES_OPTION) {
             jpanelEnvironment.environment();
-        }
-        else if (n == JOptionPane.NO_OPTION)
-        {
+        } else if (n == JOptionPane.NO_OPTION) {
             System.exit(n);
         }
     }

@@ -1,25 +1,21 @@
 public class CountryKmCalculate {
 
-    public double AnkaraIstanbul()
-    {
+    public double AnkaraIstanbul() {
         double AnkaraIstanbul = 400;
         return AnkaraIstanbul;
     }
 
-    public double AnkaraVan()
-    {
+    public double AnkaraVan() {
         double AnkaraVan = 850;
         return AnkaraVan;
     }
 
-    public double IzmirGaziantep()
-    {
+    public double IzmirGaziantep() {
         double IzmirGaziantep = 1200;
         return IzmirGaziantep;
     }
 
-    public double TokatCanakkale()
-    {
+    public double TokatCanakkale() {
         double TokatCanakkale = 1000;
         return TokatCanakkale;
     }

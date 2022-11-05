@@ -15,7 +15,7 @@ import java.util.Properties;
 /**
  * Uçak bileti hesaplama uygulamasıdır. Swing kütüphanesi kullanılmıştır.
  */
-public class JpanelEnvironment{
+public class JpanelEnvironment {
 
     public void environment() {
         Calculate calculate = new Calculate();
